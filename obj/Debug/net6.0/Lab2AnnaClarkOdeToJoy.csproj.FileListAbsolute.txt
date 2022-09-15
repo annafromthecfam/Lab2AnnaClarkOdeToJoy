@@ -1,0 +1,15 @@
+C:\Users\anna\OneDrive\Repos\Labs\Lab2AnnaClarkOdeToJoy\bin\Debug\net6.0\Lab2AnnaClarkOdeToJoy.exe
+C:\Users\anna\OneDrive\Repos\Labs\Lab2AnnaClarkOdeToJoy\bin\Debug\net6.0\Lab2AnnaClarkOdeToJoy.deps.json
+C:\Users\anna\OneDrive\Repos\Labs\Lab2AnnaClarkOdeToJoy\bin\Debug\net6.0\Lab2AnnaClarkOdeToJoy.runtimeconfig.json
+C:\Users\anna\OneDrive\Repos\Labs\Lab2AnnaClarkOdeToJoy\bin\Debug\net6.0\Lab2AnnaClarkOdeToJoy.dll
+C:\Users\anna\OneDrive\Repos\Labs\Lab2AnnaClarkOdeToJoy\bin\Debug\net6.0\Lab2AnnaClarkOdeToJoy.pdb
+C:\Users\anna\OneDrive\Repos\Labs\Lab2AnnaClarkOdeToJoy\obj\Debug\net6.0\Lab2AnnaClarkOdeToJoy.csproj.AssemblyReference.cache
+C:\Users\anna\OneDrive\Repos\Labs\Lab2AnnaClarkOdeToJoy\obj\Debug\net6.0\Lab2AnnaClarkOdeToJoy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anna\OneDrive\Repos\Labs\Lab2AnnaClarkOdeToJoy\obj\Debug\net6.0\Lab2AnnaClarkOdeToJoy.AssemblyInfoInputs.cache
+C:\Users\anna\OneDrive\Repos\Labs\Lab2AnnaClarkOdeToJoy\obj\Debug\net6.0\Lab2AnnaClarkOdeToJoy.AssemblyInfo.cs
+C:\Users\anna\OneDrive\Repos\Labs\Lab2AnnaClarkOdeToJoy\obj\Debug\net6.0\Lab2AnnaClarkOdeToJoy.csproj.CoreCompileInputs.cache
+C:\Users\anna\OneDrive\Repos\Labs\Lab2AnnaClarkOdeToJoy\obj\Debug\net6.0\Lab2AnnaClarkOdeToJoy.dll
+C:\Users\anna\OneDrive\Repos\Labs\Lab2AnnaClarkOdeToJoy\obj\Debug\net6.0\refint\Lab2AnnaClarkOdeToJoy.dll
+C:\Users\anna\OneDrive\Repos\Labs\Lab2AnnaClarkOdeToJoy\obj\Debug\net6.0\Lab2AnnaClarkOdeToJoy.pdb
+C:\Users\anna\OneDrive\Repos\Labs\Lab2AnnaClarkOdeToJoy\obj\Debug\net6.0\Lab2AnnaClarkOdeToJoy.genruntimeconfig.cache
+C:\Users\anna\OneDrive\Repos\Labs\Lab2AnnaClarkOdeToJoy\obj\Debug\net6.0\ref\Lab2AnnaClarkOdeToJoy.dll
