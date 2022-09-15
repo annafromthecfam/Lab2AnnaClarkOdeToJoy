@@ -8,7 +8,6 @@ int F = 349;
 int G = 392;
 int quarterNote = 600;
 int halfNote = 1200;
-int dottedHalfNote = 1500;
 int wholeNote = 1400;
 
 //Measure 1
